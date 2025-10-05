@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Демонстрационный скрипт для домашнего задания
-Показывает все возможности анализа кодирования изображений
-"""
-
 import os
 import sys
 from create_test_images import create_all_test_images
